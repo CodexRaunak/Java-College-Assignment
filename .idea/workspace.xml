@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87077761-d1ec-4c71-ba7a-305f4358d89c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/College.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/raunak/assignment/Q9.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2lcMIrv1dUrpl14sklmnSzIvObB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Armstrong.executor": "Run",
+    "Application.Q1.executor": "Run",
+    "Application.Q10.executor": "Run",
+    "Application.Q13.executor": "Run",
+    "Application.Q14.executor": "Run",
+    "Application.Q15.executor": "Run",
+    "Application.Q16.executor": "Run",
+    "Application.Q20.executor": "Run",
+    "Application.Q25.executor": "Run",
+    "Application.Q27.executor": "Run",
+    "Application.Q28.executor": "Run",
+    "Application.Q29.executor": "Run",
+    "Application.Q3.executor": "Run",
+    "Application.Q30.executor": "Run",
+    "Application.Q31.executor": "Run",
+    "Application.Q32.executor": "Run",
+    "Application.Q33.executor": "Run",
+    "Application.Q34.executor": "Run",
+    "Application.Q35.executor": "Run",
+    "Application.Q36.executor": "Run",
+    "Application.Q37.executor": "Run",
+    "Application.Q39.executor": "Run",
+    "Application.Q4.executor": "Run",
+    "Application.Q40.executor": "Run",
+    "Application.Q41.executor": "Run",
+    "Application.Q42.executor": "Run",
+    "Application.Q43.executor": "Run",
+    "Application.Q44.executor": "Run",
+    "Application.Q45.executor": "Run",
+    "Application.Q46.executor": "Run",
+    "Application.Q47.executor": "Run",
+    "Application.Q48.executor": "Run",
+    "Application.Q49.executor": "Run",
+    "Application.Q5.executor": "Run",
+    "Application.Q9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Q49">
+    <configuration name="Q45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raunak.assignment.Q45" />
+      <module name="College" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raunak.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raunak.assignment.Q46" />
+      <module name="College" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raunak.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raunak.assignment.Q47" />
+      <module name="College" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raunak.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raunak.assignment.Q48" />
+      <module name="College" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raunak.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raunak.assignment.Q49" />
+      <module name="College" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raunak.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q49" />
+        <item itemvalue="Application.Q48" />
+        <item itemvalue="Application.Q47" />
+        <item itemvalue="Application.Q46" />
+        <item itemvalue="Application.Q45" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87077761-d1ec-4c71-ba7a-305f4358d89c" name="Changes" comment="" />
+      <created>1725474840857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725474840857</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
